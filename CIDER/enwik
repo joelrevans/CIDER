@@ -1,0 +1,455 @@
+
+<!DOCTYPE html>
+<html class="nojs"><head>
+	<title>cincinnati, OH cars &amp; trucks - all classifieds  - craigslist</title>
+
+	<meta name="description" content="cincinnati, OH cars &amp; trucks - all classifieds  - craigslist">
+	<link rel="alternate" type="application/rss+xml" href="/cta/index.rss" title="RSS feed for craigslist | cars &amp; trucks - all  in cincinnati, OH ">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=1">
+	<link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/clnew.css?v=bbeb3ad72c97ac06cd38a5970fe1981e">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/jquery-ui-1.9.2.custom.css?v=cb67f2e720fe8a2c7d83234590b2d1ed">
+	
+    
+	
+		<script type="text/javascript"><!--
+			var unmappableNotShownText = "unmappable items not shown";
+var showImageText = "show images";
+var showMapTabs = 1;
+var lessInfoText = "less info";
+var areaID = "35";
+var removeFromShortlistText = "remove from shortlist";
+var starHint = "save this post in your favorites list";
+var expFaves = null;
+var shortlistViewText = "shortlist view";
+var shortlistNoteText = "SHORTLISTED";
+var catAbb = "cta";
+var currencySymbol = null;
+var viewPostingText = "view posting";
+var clearShortlistText = "clear shortlist";
+var moreInfoText = "more info";
+var showInfoText = "show info";
+var zoomToPosting = null;
+var imageHost = "http://images.craigslist.org";
+var pID = null;
+var addToShortlistText = "add to shortlist";
+
+		--></script>
+	
+	<!--[if lt IE 9]>
+<script type="text/javascript" src="//www.craigslist.org/js/html5shiv.js?v=ed7af45dcbda983c8455631037ebcdda"></script>
+<![endif]-->
+</head>
+
+<body class="toc  ">
+<script type="text/javascript"><!--
+	var h = document.documentElement;
+	h.className = h.className.replace('nojs', '');
+	var pagetype;
+	function C(k){return(document.cookie.match('(^|; )'+k+'=([^;]*)')||0)[2]}
+	var fmt = C('cl_fmt');
+	var b = document.body;
+	pagetype = b.className.split(/\s+/)[0];
+	if (fmt) { b.className += " " + fmt; }
+	var width = window.innerWidth || document.documentElement.clientWidth;
+	if (width > 1000) { b.className += ' w1024'; }
+	var mode = C('cl_img');
+	if (mode && b.className.indexOf('map') == -1) { b.className += " " + mode; }
+--></script>
+
+
+	<article id="pagecontainer">
+
+		<header class="bchead">
+	<div class="contents closed">
+		<div class="topright_box">
+			<div id="ef">
+	[ <a href="http://www.craigslist.org/about/help/">help</a> ] 
+	[ <a href="https://post.craigslist.org/c/cin?lang=en">post</a> ]
+</div>
+
+			<div id="favorites">
+    <a href="#" class="favlink"><span class="n">0</span> favorites</a>
+</div>
+
+		</div>
+		<div class="dropdown down">&or;</div>
+		<div class="dropdown up">&and;</div>
+		<div class="leftside">
+            <button class="back">&lt;</button>
+            <div class="breadbox">
+                <div class="breadcrumbs">
+                    <span class="crumb"><a href="//www.craigslist.org/about/sites">CL</a></span>
+                    <span class="crumb"><a href="/">cincinnati</a></span>    <span class="crumb"><a href="/sss/">for sale / wanted</a></span> <span class="crumb"><a href="/cta/">cars & trucks - all</a></span>
+                </div>
+            </div>
+		</div>
+        
+	</div>
+</header>
+
+
+		<blockquote>
+
+		<script type="text/javascript"><!--
+			var catAbb = "cta";
+
+		--></script>
+	
+<form action="/search/cta" id="searchform" method="get" accept-charset="utf-8">
+
+    <fieldset id="searchfieldset">
+    <legend id="searchlegend"><select id="catAbb" name="catAbb">
+
+					<option value="ccc">all community
+
+					<option value="eee">all event
+
+					<option value="sss">all for sale / wanted
+<option disabled value="">--
+<option value="ata"> antiques
+<option value="atd"> antiques - by dealer
+<option value="atq"> antiques - by owner
+<option value="ppa"> appliances
+<option value="ppd"> appliances - by dealer
+<option value="app"> appliances - by owner
+<option value="ard"> arts &amp; crafts - by dealer
+<option value="art"> arts &amp; crafts - by owner
+<option value="ara"> arts+crafts
+<option value="snd"> atvs, utvs, snowmobiles - by dea
+<option value="sno"> atvs, utvs, snowmobiles - by own
+<option value="sna"> atvs/utvs/snowmobiles
+<option value="pta"> auto parts
+<option value="ptd"> auto parts - by dealer
+<option value="pts"> auto parts - by owner
+<option value="bad"> baby &amp; kid stuff - by dealer
+<option value="bab"> baby &amp; kid stuff - by owner
+<option value="baa"> baby+kids
+<option value="bar"> barter
+<option value="haa"> beauty+hlth
+<option value="bid"> bicycles - by dealer
+<option value="bik"> bicycles - by owner
+<option value="bia"> bikes
+<option value="boo"> boats
+<option value="bod"> boats - by dealer
+<option value="boa"> boats - by owner
+<option value="bka"> books
+<option value="bkd"> books &amp; magazines - by dealer
+<option value="bks"> books &amp; magazines - by owner
+<option value="bfa"> business
+<option value="bfd"> business/commercial - by dealer
+<option value="bfs"> business/commercial - by owner
+<option value="ctd"> cars &amp; trucks - by dealer
+<option value="cto"> cars &amp; trucks - by owner
+<option value="cta" selected> cars+trucks
+<option value="emq"> cds / dvds / vhs - by dealer
+<option value="emd"> cds / dvds / vhs - by owner
+<option value="ema"> cds/dvd/vhs
+<option value="moa"> cell phones
+<option value="mod"> cell phones - by dealer
+<option value="mob"> cell phones - by owner
+<option value="cla"> clothes+acc
+<option value="cld"> clothing &amp; accessories - by deal
+<option value="clo"> clothing &amp; accessories - by owne
+<option value="cba"> collectibles
+<option value="cbd"> collectibles - by dealer
+<option value="clt"> collectibles - by owner
+<option value="sya"> computers
+<option value="syd"> computers - by dealer
+<option value="sys"> computers - by owner
+<option value="ela"> electronics
+<option value="eld"> electronics - by dealer
+<option value="ele"> electronics - by owner
+<option value="grq"> farm &amp; garden - by dealer
+<option value="grd"> farm &amp; garden - by owner
+<option value="gra"> farm+garden
+<option value="ssq"> for sale by dealer
+<option value="sso"> for sale by owner
+<option value="zip"> free stuff
+<option value="fua"> furniture
+<option value="fud"> furniture - by dealer
+<option value="fuo"> furniture - by owner
+<option value="gms"> garage sales
+<option value="foa"> general
+<option value="fod"> general for sale - by dealer
+<option value="for"> general for sale - by owner
+<option value="had"> health and beauty - by dealer
+<option value="hab"> health and beauty - by owner
+<option value="hva"> heavy equipment
+<option value="hvd"> heavy equipment - by dealer
+<option value="hvo"> heavy equipment - by owner
+<option value="hsa"> household
+<option value="hsd"> household items - by dealer
+<option value="hsh"> household items - by owner
+<option value="jwa"> jewelry
+<option value="jwd"> jewelry - by dealer
+<option value="jwl"> jewelry - by owner
+<option value="maa"> materials
+<option value="mad"> materials - by dealer
+<option value="mat"> materials - by owner
+<option value="mpa"> motorcycle parts &amp; acc
+<option value="mpd"> motorcycle parts/acc - by dealer
+<option value="mpo"> motorcycle parts/acc - by owner
+<option value="mca"> motorcycles
+<option value="mcd"> motorcycles/scooters - by dealer
+<option value="mcy"> motorcycles/scooters - by owner
+<option value="msa"> music instr
+<option value="msd"> musical instruments - by dealer
+<option value="msg"> musical instruments - by owner
+<option value="pha"> photo+video
+<option value="phd"> photo/video - by dealer
+<option value="pho"> photo/video - by owner
+<option value="rva"> recreational vehicles
+<option value="rvd"> rvs - by dealer
+<option value="rvs"> rvs - by owner
+<option value="sga"> sporting
+<option value="sgd"> sporting goods - by dealer
+<option value="spo"> sporting goods - by owner
+<option value="tia"> tickets
+<option value="tid"> tickets - by dealer
+<option value="tix"> tickets - by owner
+<option value="tla"> tools
+<option value="tld"> tools - by dealer
+<option value="tls"> tools - by owner
+<option value="tad"> toys &amp; games - by dealer
+<option value="tag"> toys &amp; games - by owner
+<option value="taa"> toys+games
+<option value="vga"> video gaming
+<option value="vgd"> video gaming - by dealer
+<option value="vgm"> video gaming - by owner
+<option value="waa"> wanted
+<option value="wad"> wanted - by dealer
+<option value="wan"> wanted - by owner
+<option disabled value="">--
+
+					<option value="ggg">all gigs
+
+					<option value="hhh">all housing
+
+					<option value="jjj">all jobs
+
+					<option value="ppp">all personals
+
+					<option value="res">all resume
+
+					<option value="bbb">all services offered
+</select>&nbsp;&nbsp;<a href="#" data-cat="cto">by-owner</a> | <a href="#" data-cat="ctd">by-dealer</a> | both</legend>
+	<div id="searchtable">
+		<span class="searchgroup">
+			<input id="query" name="query" size="24" value="" autocorrect="off" autocapitalize="off">
+			<input type="submit" value="search" style="font-size:1.1em;">
+		</span>
+		<span class="searchgroup">
+			<div id="searchchecks">
+				<label id="usemapcheck" style="display:none;">
+					<input type="checkbox" name="useMap" value="1">show map
+				</label>
+				<input id="zoomtoposting" type="hidden" name="zoomToPosting" value="">
+			</div>
+		</span>
+		<span class="searchgroup">
+			price:
+			<input name="minAsk" class="min" size="5" value="">
+<input name="maxAsk" class="max" size="5" value="">
+
+		</span>
+		
+		<span class="searchgroup">
+			<label>
+				<input type="checkbox" name="hasPic" value="1" ><span style="color:#FFA500; font-size:smaller;">pic</span>
+			</label>
+                        <label>
+                               <input type="checkbox" name="srchType" value="T" checked="checked"
+                               title="search only posting titles">title
+                       </label>
+		</span>
+	</div>
+    </fieldset>
+</form>
+</blockquote>
+
+
+		<section class="body">
+			<blockquote id="messagetable"><div id="messages"><span class="hl"><a href="http://www.craigslist.org/about/scams"><b> [ AVOID OFFERS TO SHIP VEHICLES ] </b></a></span>
+<span class="hl">[ <a href="http://carsharing.net/where.html"><font color="green">car sharing</font></a> ]</span>
+<span class="hl"> [ <a href="http://www.craigslist.org/about/recalled_items">recall items</a> ] </span>
+<span class="hl"> [ <a href="/about/prohibited.items">prohibited items</a> ] </span>
+<span class="hl"> [ <b><a href="/about/scams">avoiding scams</a></b> ] </span>
+<span class="hl"> [ <b><a href="/about/safety">personal safety</a></b> ] </span>
+<span class="hl"> [ <a href="http://youtube.com/craigslist">CL {tv}</a> ] </span>
+<span class="hl"> [ <a href="http://blog.craigslist.org/">blog</a> ] </span>
+</div></blockquote>
+			
+			
+
+			
+
+			<blockquote class="modebtns">
+	<button id="listview">list view</button>
+	<button id="picview">pic view</button>
+	<button id="gridview">grid view</button>
+	<button id="mapview">map view</button>
+</blockquote>
+
+
+			<blockquote id="toc_rows">
+
+			
+			<h4 class="ban">Mon Sep 02</h4>
+ <p class="row" data-pid="4005521490"> <a href="/ctd/4005521490.html" class="i" data-id="0:00101_Yec4i3E1aB"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4005521490.html">2006 MAZDA 6 I</a> </span> <span class="l2"> <span class="price">$8995</span>  <span class="pnr"> <small> (AUTO EXPRESS OF CINCINNATI, INC.)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4040962899"> <a href="/cto/4040962899.html" class="i" data-id="0:00u0u_cPnb88Zp70L"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/cto/4040962899.html">1998 FORD WINDSTAR......(VERY DEPENDABLE....RUNS GREAT!)</a> </span> <span class="l2"> <span class="price">$1000</span>  <span class="pnr"> <small> (CINCY)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4040962872"> <a href="/ctd/4040962872.html" class="i" data-id="0:00q0q_b5QKzZLXExU"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4040962872.html">Great Transportation 2011 Dodge Caliber Hatchback, Used</a> </span> <span class="l2">   <span class="pnr"> <small> (Florence)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-latitude="39.192594" data-longitude="-84.246881" data-pid="4040962887"> <a href="/ctd/4040962887.html" class="i" data-id="0:00F0F_hrG9mSuCV0X"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4040962887.html">1998 Chevrolet K 3500 4x4 with Plow </a> </span> <span class="l2"> <span class="price">$7042</span>  <span class="pnr"> <small> (Milford, Ohio)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="4040962887">map</a></span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4001155671"> <a href="/ctd/4001155671.html" class="i" data-id="0:00q0q_dhD1i4ROkzp"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4001155671.html">2004 MITSUBISHI ENDEAVOR</a> </span> <span class="l2"> <span class="price">$8995</span>  <span class="pnr"> <small> (AUTO EXPRESS OF CINCINNATI, INC.)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4040903951"> <a href="/ctd/4040903951.html" class="i" data-id="0:00w0w_eJfyN7Gt2Ks"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4040903951.html">2008 Volvo S80</a> </span> <span class="l2">   <span class="pnr">  <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="3986810351"> <a href="/ctd/3986810351.html" class="i" data-id="0:00L0L_eT6pVvySG3w"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/3986810351.html">***2004 Nissian Titan/SE,Special financing Available***</a> </span> <span class="l2"> <span class="price">$10090</span>  <span class="pnr"> <small> (Fairfield)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-latitude="39.216617" data-longitude="-84.860194" data-pid="4040960781"> <a href="/cto/4040960781.html" class="i" data-id="0:00Z0Z_30eK1H6trgI"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/cto/4040960781.html">Chevy Suburban</a> </span> <span class="l2"> <span class="price">$1500</span>  <span class="pnr"> <small> (Lawrenceburg, In)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="4040960781">map</a></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="3986768234"> <a href="/ctd/3986768234.html" class="i" data-id="0:00X0X_84dXVEQ9RtG"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/3986768234.html">***2004 Nissan Armada/SE,Special Financing Available***</a> </span> <span class="l2"> <span class="price">$12900</span>  <span class="pnr"> <small> (Fairfield)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-latitude="39.162000" data-longitude="-84.456890" data-pid="4040960519"> <a href="/cto/4040960519.html" class="i" data-id="0:00k0k_86kOhqXUqeF"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/cto/4040960519.html">Cooper  HardTop Automatic 1.6L MINI Hatchback Great </a> </span> <span class="l2"> <span class="price">$2650</span>  <span class="pnr"> <small> (cincinnati, OH)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="4040960519">map</a></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="3986712294"> <a href="/ctd/3986712294.html" class="i" data-id="0:01212_6KJZ6uDQODj"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/3986712294.html">***2006 Nissan Maxima/SE,Special Financing Available***</a> </span> <span class="l2"> <span class="price">$8900</span>  <span class="pnr"> <small> (Fairfield)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4031785038"> <a href="/ctd/4031785038.html" class="i" data-id="0:00x0x_fCawcULVyAE"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4031785038.html">2004 FORD ESCAPE XLT</a> </span> <span class="l2"> <span class="price">$7995</span>  <span class="pnr"> <small> (AUTO EXPRESS OF CINCINNATI, INC.)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="3991461375"> <a href="/cto/3991461375.html" class="i" data-id="0:00l0l_dSy6GEDMADi"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/cto/3991461375.html"> 2005 BMW Z4 / Like New / 25,039 Miles</a> </span> <span class="l2"> <span class="price">$19200</span>  <span class="pnr"> <small> (Morrow)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4017039825"> <a href="/ctd/4017039825.html" class="i" data-id="0:00H0H_fv6Bu8OpUgW"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4017039825.html">2004 CHEVROLET TRACKER 4X4 </a> </span> <span class="l2"> <span class="price">$5995</span>  <span class="pnr"> <small> (MIDDLETOWN)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4040959725"> <a href="/ctd/4040959725.html" class="i" data-id="0:00u0u_64U6Kko2Q2Q"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4040959725.html">2011 Chrysler Town-&amp;-Country Low As $312/Mo. - </a> </span> <span class="l2">   <span class="pnr"> <small> (Lawrenceburg, IN 47025)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="3996437584"> <a href="/ctd/3996437584.html" class="i" data-id="0:00202_g5EMOg94HE3"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/3996437584.html">2006 MAZDA 3</a> </span> <span class="l2"> <span class="price">$7995</span>  <span class="pnr"> <small> (AUTO EXPRESS OF CINCINNATI, INC.)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4040959545"> <a href="/ctd/4040959545.html" class="i" data-id="0:01212_3Vr2trKtBRW"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4040959545.html">2004 NISSAN MURANO</a> </span> <span class="l2"> <span class="price">$9995</span>  <span class="pnr"> <small> (AUTO EXPRESS OF CINCINNATI, INC.)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4040942804"> <a href="/ctd/4040942804.html" class="i" data-id="0:00s0s_l0j5YjPNw2Z"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4040942804.html">Chevrolet 2008 Impala 4DR SDN 3.5l LT</a> </span> <span class="l2">   <span class="pnr">  <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4040959091"> <a href="/ctd/4040959091.html" class="i" data-id="0:00P0P_5virA6VFIKg"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4040959091.html">2012 Jeep Scrambler Low As $343/Mo. </a> </span> <span class="l2">   <span class="pnr"> <small> (West Harrison, IN 47060)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4026792635"> <a href="/ctd/4026792635.html" class="i" data-id="0:01414_fAiXfipOYTJ"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4026792635.html">2000 FORD F150 XLT</a> </span> <span class="l2"> <span class="price">$7995</span>  <span class="pnr"> <small> (AUTO EXPRESS OF CINCINNATI, INC.)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4040947457"> <a href="/ctd/4040947457.html" class="i" data-id="0:00u0u_durnGktWqbx"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4040947457.html">2008 Stock S3671 Mitsubishi Lancer  GTS</a> </span> <span class="l2">   <span class="pnr">  <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4040947133"> <a href="/cto/4040947133.html" class="i" data-id="0:01414_d4R6SSdYNOM"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/cto/4040947133.html">2000 DODGE RAM 1500 4x4 QUAD CAB </a> </span> <span class="l2"> <span class="price">$1300</span>  <span class="pnr"> <small> (ADAMS COUNTY OHIO)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4026775240"> <a href="/ctd/4026775240.html" class="i" data-id="0:00P0P_4pM620isubA"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4026775240.html">2002 DODGE DAKOTA SPORT</a> </span> <span class="l2"> <span class="price">$7995</span>  <span class="pnr"> <small> (AUTO EXPRESS OF CINCINNATI, INC.)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4040957999"> <a href="/cto/4040957999.html" class="i" data-id="0:00P0P_4dlky5iVm6f"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/cto/4040957999.html">1986 ford f150</a> </span> <span class="l2"> <span class="price">$1200</span>  <span class="pnr"> <small> (rising sun IN)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4040957640"> <a href="/ctd/4040957640.html" class="i" data-id="0:00z0z_fsmaJJK7U1w"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4040957640.html">2005 CHEVY TAHOE Z71</a> </span> <span class="l2"> <span class="price">$9995</span>  <span class="pnr"> <small> (AUTO EXPRESS OF CINCINNATI, INC.)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4040956458"> <a href="/cto/4040956458.html" class="i" data-id="0:00i0i_gOpYGhX0ojQ"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/cto/4040956458.html">2001 Volkswagen Beetle</a> </span> <span class="l2"> <span class="price">$2800</span>  <span class="pnr"> <small> (Adams County)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="3996435100"> <a href="/ctd/3996435100.html" class="i" data-id="0:00d0d_jDyam4ChEmM"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/3996435100.html">2007 CHEVY COBALT</a> </span> <span class="l2"> <span class="price">$7495</span>  <span class="pnr"> <small> (AUTO EXPRESS OF CINCINNATI, INC.)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4040927289"> <a href="/ctd/4040927289.html" class="i" data-id="0:00000_bMEWby85rTJ"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4040927289.html">2004 Toyota Sienna</a> </span> <span class="l2"> <span class="price">$6995</span>  <span class="pnr"> <small> (Florence, KY 41042)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4013741304"> <a href="/ctd/4013741304.html" class="i" data-id="0:00E0E_kivLYJGpfJX"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4013741304.html">2006 PONTIAC G6</a> </span> <span class="l2"> <span class="price">$7995</span>  <span class="pnr"> <small> (AUTO EXPRESS OF CINCINNATI, INC.)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="3989798371"> <a href="/cto/3989798371.html" class="i" data-id="0:00F0F_F3qZ8GqGct"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/cto/3989798371.html">dodge 1500 pickup 1995</a> </span> <span class="l2"> <span class="price">$1500</span>  <span class="pnr"> <small> (covinngton ky)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4036025933"> <a href="/cto/4036025933.html" class="i" data-id="0:00b0b_43tzkoJ0Eyr"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/cto/4036025933.html">2006 NISSAN QUEST S </a> </span> <span class="l2"> <span class="price">$8500</span>  <span class="pnr"> <small> (COLERAIN)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4021233362"> <a href="/cto/4021233362.html" class="i" data-id="0:00808_dvJrxvF37Xe"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/cto/4021233362.html">very clean 2000 Honda civic </a> </span> <span class="l2"> <span class="price">$3700</span>  <span class="pnr"> <small> (Cincinnati )</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4005419757"> <a href="/ctd/4005419757.html" class="i" data-id="0:00q0q_4qBFZo2u0tV"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4005419757.html">2001 TOYOTA AVALON</a> </span> <span class="l2"> <span class="price">$6995</span>  <span class="pnr"> <small> (AUTO EXPRESS OF CINCINNATI, INC.)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4030303649"> <a href="/cto/4030303649.html" class="i" data-id="0:00G0G_b7IqED8ppAB"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/cto/4030303649.html">69 CAMARO</a> </span> <span class="l2"> <span class="price">$1</span>  <span class="pnr"> <small> (ERLANGER KY)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="3989852687"> <a href="/cto/3989852687.html" class="i" data-id="0:00z0z_4dz3mdlAdv2"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/cto/3989852687.html">VERY clean 2002 hyundai elantra GLS </a> </span> <span class="l2"> <span class="price">$3000</span>  <span class="pnr"> <small> (Cincinnati )</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4013753943"> <a href="/ctd/4013753943.html" class="i" data-id="0:00A0A_efO4KDUPqUe"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4013753943.html">2001 DODGE DAKOTA SLT</a> </span> <span class="l2"> <span class="price">$6995</span>  <span class="pnr"> <small> (AUTO EXPRESS OF CINCINNATI, INC.)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4035670447"> <a href="/ctd/4035670447.html" class="i"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4035670447.html">&#9658;  FORD EXPEDITION EDDIE BAUER ~ 3RD ROW SEATS LEATHER &amp; SUNROOF</a> </span> <span class="l2"> <span class="price">$7995</span>  <span class="pnr"> <small> (MINDISDEALS.COM CALL 513-402-2120)</small> <span class="px"> <span class="p"> img</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="3981000935"> <a href="/cto/3981000935.html" class="i" data-id="0:00c0c_cUqb8kOJ4LQ"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/cto/3981000935.html">very clean Honda civic 2002 lx </a> </span> <span class="l2"> <span class="price">$4900</span>  <span class="pnr"> <small> (Cincinnati )</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4016156942"> <a href="/ctd/4016156942.html" class="i" data-id="0:00q0q_7gOEfK9yfMK"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4016156942.html">2005 CHEVY IMPALA LS</a> </span> <span class="l2"> <span class="price">$6995</span>  <span class="pnr"> <small> (AUTO EXPRESS OF CINCINNATI, INC.)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="3980992821"> <a href="/cto/3980992821.html" class="i" data-id="0:00A0A_5geUl8SIDIQ"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/cto/3980992821.html">1999 very clean ford 150 xlt </a> </span> <span class="l2"> <span class="price">$3999</span>  <span class="pnr"> <small> (Cincinnati )</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4040953408"> <a href="/ctd/4040953408.html" class="i" data-id="0:00F0F_fLnsRGZollw"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4040953408.html">2009 HYUNDAI SONATA</a> </span> <span class="l2"> <span class="price">$8995</span>  <span class="pnr"> <small> (AUTO EXPRESS OF CINCINNATI, INC.)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4016154556"> <a href="/ctd/4016154556.html" class="i" data-id="0:00l0l_4AtgkkSCGAl"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4016154556.html">2000 JAQUAR S-TYPE</a> </span> <span class="l2"> <span class="price">$6995</span>  <span class="pnr"> <small> (AUTO EXPRESS OF CINCINNATI, INC.)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4020633226"> <a href="/cto/4020633226.html" class="i" data-id="0:00n0n_b3BQvgYLArF"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/cto/4020633226.html">2001 saturn for sale only 3days 178 223 millas</a> </span> <span class="l2"> <span class="price">$1700</span>  <span class="pnr"> <small> (florence ky)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4040952898"> <a href="/cto/4040952898.html" class="i" data-id="0:00n0n_ayCpSgeroRC"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/cto/4040952898.html">1999 GRAND CARAVAN LOWER MILES NEE GONE TODAY!</a> </span> <span class="l2"> <span class="price">$1000</span>  <span class="pnr"> <small> (WEST UNION OH)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4040952826"> <a href="/cto/4040952826.html" class="i" data-id="0:00i0i_ARuxj3DlIO"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/cto/4040952826.html">2000 Pontiac Grand AM 2.4L *107xxx mi!! Great Condition!</a> </span> <span class="l2"> <span class="price">$3300</span>  <span class="pnr"> <small> (Fairfield/Mason, OH)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4022018401"> <a href="/cto/4022018401.html" class="i" data-id="0:00b0b_7cWqWBvxomx"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/cto/4022018401.html">2003 Chevrolet Malibu **NICE**</a> </span> <span class="l2"> <span class="price">$2995</span>  <span class="pnr"> <small> (Greater Cincinnati)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4013801199"> <a href="/ctd/4013801199.html" class="i" data-id="0:00D0D_2St94FLkBzq"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4013801199.html">2004 MAZDA 6</a> </span> <span class="l2"> <span class="price">$6995</span>  <span class="pnr"> <small> (AUTO EXPRESS OF CINCINNATI, INC.)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4040943698"> <a href="/ctd/4040943698.html" class="i" data-id="0:00r0r_9052oWdNm8S"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4040943698.html">2006 Honda Cr-v 4WD EX AT SE</a> </span> <span class="l2">   <span class="pnr">  <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4030897395"> <a href="/ctd/4030897395.html" class="i"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4030897395.html">:-)&#9654;&#9654;&#9654; 03 CHRYSLER 300 M &#9733; MUST SEE !!</a> </span> <span class="l2"> <span class="price">$5995</span>  <span class="pnr"> <small> (MINDISDEALS.COM CALL 513-402-2120)</small> <span class="px"> <span class="p"> img</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4022543158"> <a href="/ctd/4022543158.html" class="i"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4022543158.html">&#9658; 06 FORD MUSTANG GT &#9658; VERY NICE !!</a> </span> <span class="l2"> <span class="price">$12995</span>  <span class="pnr"> <small> (MINDISDEALS.COM CALL 513-402-2120)</small> <span class="px"> <span class="p"> img</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4040950487"> <a href="/cto/4040950487.html" class="i" data-id="0:01616_57VEaJe8JgD"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/cto/4040950487.html">GT-40 AVENGER kit car</a> </span> <span class="l2"> <span class="price">$8000</span>  <span class="pnr"> <small> (peebles oh)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-latitude="38.999993" data-longitude="-84.608974" data-pid="4034098487"> <a href="/cto/4034098487.html" class="i" data-id="0:00505_9oX2NgoQPhg"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/cto/4034098487.html">2009 Honda Civic, Automatic </a> </span> <span class="l2"> <span class="price">$9995</span>  <span class="pnr"> <small> (Elsmere Ky)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="4034098487">map</a></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-latitude="39.198062" data-longitude="-84.736515" data-pid="4040915066"> <a href="/ctd/4040915066.html" class="i" data-id="0:00p0p_gWpX9VosNMs"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4040915066.html">Stock 228051 Chrysler 2004 PT Cruiser Touring Edition</a> </span> <span class="l2"> <span class="price">$2995</span>  <span class="pnr"> <small> (Weinle Motorsports)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="4040915066">map</a></span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4022546253"> <a href="/ctd/4022546253.html" class="i"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4022546253.html">03 CHEVY TRAILBLAZER LT 4X4 ~~ NEEDS NOTHING !! CALL TODAY !</a> </span> <span class="l2"> <span class="price">$5995</span>  <span class="pnr"> <small> (MINDISDEALS.COM CALL 513-402-2120)</small> <span class="px"> <span class="p"> img</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4007687103"> <a href="/ctd/4007687103.html" class="i"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4007687103.html">&#9733;&#9733;&#9733; 04 CHEVY MALIBU &#9733;&#9733;&#9733;</a> </span> <span class="l2"> <span class="price">$3995</span>  <span class="pnr"> <small> (MINDISDEALS.COM CALL 937-405-8999&#9733;)</small> <span class="px"> <span class="p"> img</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4040932417"> <a href="/ctd/4040932417.html" class="i" data-id="0:00R0R_3OzRis0ZLD3"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4040932417.html">Mazda 2011 Mazda6  i Sport</a> </span> <span class="l2"> <span class="price">$13788</span>  <span class="pnr">  <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="3987259131"> <a href="/ctd/3987259131.html" class="i"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/3987259131.html">&#9733;&#9733;&#9733; 2003 FORD MUSTANG GT LOW MILES &#9733;&#9733;&#9733;</a> </span> <span class="l2"> <span class="price">$8950</span>  <span class="pnr"> <small> (CALL 513-402-2120)</small> <span class="px"> <span class="p"> img</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="3980537979"> <a href="/cto/3980537979.html" class="i" data-id="0:00Z0Z_jJimtylD90s"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/cto/3980537979.html">B16a swapped eg civic hatch great running and driving $2200 WTF?!?!?!?</a> </span> <span class="l2">   <span class="pnr">  <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4005438126"> <a href="/ctd/4005438126.html" class="i" data-id="0:00e0e_jlOSj6nL7Ae"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4005438126.html">2000 LINCOLN TOWN CAR LIMOUSINE</a> </span> <span class="l2"> <span class="price">$5995</span>  <span class="pnr"> <small> (AUTO EXPRESS - AMELIA)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="3996670671"> <a href="/ctd/3996670671.html" class="i"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/3996670671.html">&#9733;&#9733;&#9733; 05 CADILLAC STS V8 ~ LOW MILES</a> </span> <span class="l2"> <span class="price">$11995</span>  <span class="pnr"> <small> (MINDISDEALS.COM CALL 513-402-2212)</small> <span class="px"> <span class="p"> img</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4040949456"> <a href="/ctd/4040949456.html" class="i" data-id="0:00l0l_ckA4IV0kxQY"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4040949456.html">2008 SCION XB</a> </span> <span class="l2"> <span class="price">$7495</span>  <span class="pnr"> <small> (AUTO EXPRESS OF CINCINNATI, INC.)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4022556975"> <a href="/ctd/4022556975.html" class="i"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4022556975.html">&#9658; &#9658; CADILLAC DEVILLE DTS ~VERY CLEAN &amp; LOW MILES ~~~~~~~~~</a> </span> <span class="l2"> <span class="price">$6950</span>  <span class="pnr"> <small> (MINDISDEALS.COM CALL 513-402-2120)</small> <span class="px"> <span class="p"> img</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4005466388"> <a href="/ctd/4005466388.html" class="i" data-id="0:00z0z_4FDJUpv5WmA"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4005466388.html">2007 CHRYSLER PT CRUISER</a> </span> <span class="l2"> <span class="price">$5995</span>  <span class="pnr"> <small> (AUTO EXPRESS OF CINCINNATI, INC.)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="3999027014"> <a href="/ctd/3999027014.html" class="i"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/3999027014.html">&#9658; HONDA CIVIC EX COUPE SUNROOF ~ AUTO</a> </span> <span class="l2"> <span class="price">$3950</span>  <span class="pnr"> <small> (WILLIAMSON AUTO SALES CALL 513-402-2120)</small> <span class="px"> <span class="p"> img</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="3996428753"> <a href="/ctd/3996428753.html" class="i" data-id="0:00Y0Y_bpY6h6Ci86w"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/3996428753.html">2001 MERCURY MOUNTAINEER</a> </span> <span class="l2"> <span class="price">$5995</span>  <span class="pnr"> <small> (AUTO EXPRESS OF CINCINNATI, INC.)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-latitude="38.994840" data-longitude="-83.373555" data-pid="4040948072"> <a href="/cto/4040948072.html" class="i"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/cto/4040948072.html">Bronco</a> </span> <span class="l2">   <span class="pnr"> <small> (45660)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4040948072">map</a></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="3996424972"> <a href="/ctd/3996424972.html" class="i" data-id="0:01414_9d8wE2nZjAX"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/3996424972.html">2004 CHEVY BLAZER</a> </span> <span class="l2"> <span class="price">$5995</span>  <span class="pnr"> <small> (AUTO EXPRESS OF CINCINNATI, INC.)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4040938971"> <a href="/ctd/4040938971.html" class="i" data-id="0:00h0h_gAARZZAPGj0"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4040938971.html">2007 FORD FIVE HUNDRED LTD LEATHER LOADED 83,399 MILES MILFORD </a> </span> <span class="l2"> <span class="price">$9800</span>  <span class="pnr"> <small> (MILFORD)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4031716253"> <a href="/ctd/4031716253.html" class="i" data-id="0:00p0p_6VdnQw9ukvV"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4031716253.html">2002 MAZDA PROTEGE 5</a> </span> <span class="l2"> <span class="price">$5995</span>  <span class="pnr"> <small> (AUTO EXPRESS OF CINCINNATI INC.)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4040945942"> <a href="/ctd/4040945942.html" class="i" data-id="0:01111_8GfoRyg5Pzs"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4040945942.html">2005 Toyota Sienna Low As $167/Mo.</a> </span> <span class="l2">   <span class="pnr"> <small> (Cincinnati, OH 45246)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-latitude="39.185006" data-longitude="-84.266931" data-pid="4040945857"> <a href="/ctd/4040945857.html" class="i" data-id="0:00R0R_9I8syIntjXa"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4040945857.html">2006 Ford Super Duty F-550 DRW XL</a> </span> <span class="l2"> <span class="price">$15995</span>  <span class="pnr"> <small> (Milford, Ohio)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="4040945857">map</a></span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4040872024"> <a href="/cto/4040872024.html" class="i" data-id="0:00a0a_eh9SqqmLu4K"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/cto/4040872024.html">1990 DODGE DAKOTA SE</a> </span> <span class="l2"> <span class="price">$2000</span>  <span class="pnr"> <small> (OAK HILL, OHIO)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4040945464"> <a href="/ctd/4040945464.html" class="i" data-id="0:00r0r_fMJ1DQGhjlq"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4040945464.html">2011 Mini Cooper Clubman 56115A</a> </span> <span class="l2">   <span class="pnr"> <small> (Cincinnati)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-latitude="39.185006" data-longitude="-84.266931" data-pid="4040945479"> <a href="/ctd/4040945479.html" class="i" data-id="0:01111_gRcjUH5gpQ1"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4040945479.html">2002 Honda Accord EX</a> </span> <span class="l2"> <span class="price">$6495</span>  <span class="pnr"> <small> (Milford, Ohio)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="4040945479">map</a></span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4034806181"> <a href="/cto/4034806181.html" class="i" data-id="0:00404_7sBmbqsrsZp"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/cto/4034806181.html">Chrysler sebring jxi</a> </span> <span class="l2"> <span class="price">$1900</span>  <span class="pnr"> <small> (walnut hills)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4005430576"> <a href="/ctd/4005430576.html" class="i" data-id="0:00C0C_c20JcFWxGDm"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4005430576.html">2001 MAZDA TRIBUTE DX</a> </span> <span class="l2"> <span class="price">$5995</span>  <span class="pnr"> <small> (AUTO EXPRESS - AMELIA)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4040943707"> <a href="/ctd/4040943707.html" class="i" data-id="0:00W0W_j5zAL9aGXjW"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4040943707.html">2003 FORD F150 XL</a> </span> <span class="l2"> <span class="price">$6995</span>  <span class="pnr"> <small> (AUTO EXPRESS OF CINCINNATI, INC.)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4001179787"> <a href="/ctd/4001179787.html" class="i" data-id="0:00Q0Q_95dTuJy4Pts"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4001179787.html">2000 GMC ENVOY - JIMMY</a> </span> <span class="l2"> <span class="price">$5995</span>  <span class="pnr"> <small> (AUTO EXPRESS OF CINCINNATI, INC.)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4026439249"> <a href="/ctd/4026439249.html" class="i" data-id="0:00m0m_clafpuW5h4e"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4026439249.html">2000 CHEVY TAHOE LT</a> </span> <span class="l2"> <span class="price">$5995</span>  <span class="pnr"> <small> (AUTO EXPRESS OF CINCINNATI, INC.)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4011470969"> <a href="/ctd/4011470969.html" class="i" data-id="0:00I0I_ckOWyxhGE7a"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4011470969.html">2005 KIA SEDONA</a> </span> <span class="l2"> <span class="price">$5995</span>  <span class="pnr"> <small> (AUTO EXPRESS OF CINCINNATI, INC.)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="3986167773"> <a href="/ctd/3986167773.html" class="i" data-id="0:00V0V_h8QjZptoJ57"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/3986167773.html">2006 FORD FREESTAR</a> </span> <span class="l2"> <span class="price">$5995</span>  <span class="pnr"> <small> (AUTO EXPRESS OF CINCINNATI, INC.)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4040941424"> <a href="/cto/4040941424.html" class="i" data-id="0:01616_57VEaJe8JgD"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/cto/4040941424.html">GT-40 AVENGER kit car</a> </span> <span class="l2"> <span class="price">$8000</span>  <span class="pnr"> <small> (peebles oh)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4005796709"> <a href="/cto/4005796709.html" class="i" data-id="0:00K0K_7WYzNyBWZ9I"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/cto/4005796709.html">1997 Cherolet P/U Z-71</a> </span> <span class="l2"> <span class="price">$4500</span>  <span class="pnr"> <small> (NKY)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4026765334"> <a href="/ctd/4026765334.html" class="i" data-id="0:00g0g_ePSj6BMDkFM"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4026765334.html">2006 CHEVY EQUINOX</a> </span> <span class="l2"> <span class="price">$5995</span>  <span class="pnr"> <small> (AUTO EXPRESS OF CINCINNATI, INC.)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4040940743"> <a href="/ctd/4040940743.html" class="i" data-id="0:00g0g_1mxkT1R2BYY"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4040940743.html">›››§›››TOYOTA 2oo6 Camry XLE›››§›››</a> </span> <span class="l2"> <span class="price">$1950</span>  <span class="pnr"> <small> (cincinnati)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4013783435"> <a href="/ctd/4013783435.html" class="i" data-id="0:00u0u_lqmg1lZVNqb"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4013783435.html">2003 DODGE DURANGO</a> </span> <span class="l2"> <span class="price">$5995</span>  <span class="pnr"> <small> (AUTO EXPRESS OF CINCINNATI, INC.)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4040920289"> <a href="/ctd/4040920289.html" class="i" data-id="0:00V0V_f3M2sZFR3lC"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4040920289.html">2010 Honda Insight</a> </span> <span class="l2"> <span class="price">$13795</span>  <span class="pnr"> <small> (Florence, KY 41042)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4036746714"> <a href="/cto/4036746714.html" class="i" data-id="0:00X0X_cuKrbBrhNsY"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/cto/4036746714.html">1998 Chevrolet Lumina  - Low Mileage - Garaged - 1 Owner</a> </span> <span class="l2"> <span class="price">$3700</span>  <span class="pnr"> <small> (Cincinnati)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4030906159"> <a href="/ctd/4030906159.html" class="i" data-id="0:00j0j_9V09NK1ypFU"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4030906159.html">1998 FORD EXPEDITION</a> </span> <span class="l2"> <span class="price">$4995</span>  <span class="pnr"> <small> (AUTO EXPRESS OF CINCINNATI, INC.)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4028600706"> <a href="/cto/4028600706.html" class="i" data-id="0:00U0U_aHW87IAE6ly"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/cto/4028600706.html">MERCURY GRAND MARQUIS</a> </span> <span class="l2">   <span class="pnr"> <small> (Greenville Oh)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4030913225"> <a href="/ctd/4030913225.html" class="i" data-id="0:01010_fNlPGTes5Ns"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4030913225.html">1997 GMC YUKON</a> </span> <span class="l2"> <span class="price">$4995</span>  <span class="pnr"> <small> (AUTO EXPRESS OF CINCINNATI, INC.)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4040937282"> <a href="/ctd/4040937282.html" class="i" data-id="0:00b0b_723sCNukBgk"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4040937282.html">2012 Chevrolet Stock S3583R Cruze  LT w/2LT</a> </span> <span class="l2"> <span class="price">$15488</span>  <span class="pnr">  <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4040936829"> <a href="/ctd/4040936829.html" class="i" data-id="0:00l0l_7ufn0pwie9"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4040936829.html">2002 Chevrolet Trailblazer - $5495</a> </span> <span class="l2">   <span class="pnr"> <small> (Cincinnati, OH 45246)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4040936700"> <a href="/cto/4040936700.html" class="i" data-id="0:00B0B_ffVYdDsLpuT"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/cto/4040936700.html">Great Truck for Sale!!</a> </span> <span class="l2"> <span class="price">$1500</span>  <span class="pnr"> <small> (Greens Fork, IN)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4029159319"> <a href="/ctd/4029159319.html" class="i" data-id="0:00202_55ux8TMpnqa"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4029159319.html">2004 DODGE INTREPID SE</a> </span> <span class="l2"> <span class="price">$4995</span>  <span class="pnr"> <small> (AUTO EXPRESS OF CINCINNATI, INC.)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4040936505"> <a href="/cto/4040936505.html" class="i" data-id="0:00O0O_kiGHzbJAv7Y"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/cto/4040936505.html">Bronco II                $1500obo</a> </span> <span class="l2"> <span class="price">$1500</span>  <span class="pnr"> <small> (Ryland Heights KY)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4040918661"> <a href="/cto/4040918661.html" class="i"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/cto/4040918661.html">2002 Chevy suburban</a> </span> <span class="l2"> <span class="price">$6000</span>  <span class="pnr"> <small> (Morrow)</small> <span class="px"> <span class="p"> </span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4021198034"> <a href="/ctd/4021198034.html" class="i" data-id="0:00C0C_6I0xOek583k"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4021198034.html">2003 DODGE NEON SE</a> </span> <span class="l2"> <span class="price">$4995</span>  <span class="pnr"> <small> (AUTO EXPRESS OF CINCINNATI, INC.)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4036971494"> <a href="/cto/4036971494.html" class="i" data-id="0:00H0H_f2sLWQ9DddZ"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/cto/4036971494.html">2001 Honda Odyssey EX - Power doors - Extremely clean!</a> </span> <span class="l2"> <span class="price">$4500</span>  <span class="pnr"> <small> (Cincinnati)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4026317223"> <a href="/ctd/4026317223.html" class="i" data-id="0:00E0E_7UejqqZpLz2"></a> <span class="pl"> <span class="star"></span> <span class="date">Sep  2</span>  <a href="/ctd/4026317223.html">2002 SATURN S-SERIES</a> </span> <span class="l2"> <span class="price">$4495</span>  <span class="pnr"> <small> (AUTO EXPRESS OF CINCINNATI, INC.)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+
+
+			<p class="nextpage">
+	<a href="index100.html">next 100 postings</a>
+</p>
+
+
+			<div id="floater">
+				<img class="loading" src="http://www.craigslist.org/images/map/animated-spinny.gif">
+				<img class="payload" src="http://www.craigslist.org/images/map/animated-spinny.gif">
+			</div>
+
+			</blockquote>
+		</section>
+		
+		<ul id="fmtsel">
+	<li><b>FORMAT:</b></li>
+	<li class="fsel" data-mode="mobile">mobile</li>
+	<li class="fsel" data-mode="regular">regular</li>
+</ul>
+
+<footer>
+	
+			<span class="rss">
+				<a class="l" href="/cta/index.rss">RSS</a>
+				<a href="http://www.craigslist.org/about/rss">(?)</a><br>
+			</span>
+			
+	<ul class="clfooter">
+		<li>&copy; 2013 craigslist</li>
+		<li><a href="//www.craigslist.org/about/help/">help</a></li>
+		<li><a href="//www.craigslist.org/about/terms.of.use">terms</a></li>
+		<li><a href="//www.craigslist.org/about/privacy.policy">privacy</a></li>
+		<li><a href="//www.craigslist.org/about/scams">safety</a></li>
+		<li><a href="https://forums.craigslist.org/?forumID=8">feedback</a></li>
+		<li><a href="//www.craigslist.org/about/">about</a></li>
+		<li><a href="//www.craigslist.org/about/craigslist_is_hiring" style="color: #0b0">cl jobs</a></li>
+	</ul>
+</footer>
+
+	</article>
+	<!--[if lte IE 7]>
+		<script type="text/javascript" src="//www.craigslist.org/js/json2.js?v=c1da07f5953739dffc17fd1db3c5313c"></script>
+	<![endif]-->
+    <script type="text/javascript" src="//www.craigslist.org/js/jquery-1.9.1.js?v=56eaef3b8a28d9d45bb4f86004b0eaae"></script>
+    <script type="text/javascript" src="//www.craigslist.org/js/jquery-ui-1.9.2.custom.js?v=32c38510c8db71f2fbef00da891aeaac"></script>
+    <script type="text/javascript" src="//www.craigslist.org/js/formats.js?v=113bb8f3a6aabf01ed5ee776e013978c"></script>
+    <script type="text/javascript" src="//www.craigslist.org/js/toChecklist.js?v=b163a7aa23a6dad79076f92e56c622f7"></script>
+    <script type="text/javascript" src="//www.craigslist.org/js/jquery.form-defaults.js?v=421648d06bad2f29bbfc2f66c5205aeb"></script>
+    <script type="text/javascript" src="//www.craigslist.org/js/cookie.js?v=0cce2559d540be0bb52211e4105921c4"></script>
+    <script type="text/javascript" src="//www.craigslist.org/js/localstorage.js?v=0dcff58ebaf4af52c0b82d96a5fd7000"></script>
+    <script type="text/javascript" src="//www.craigslist.org/js/tocs.js?v=047d2882f81a5054f17c0202fb89df4d"></script>
+	<script type="text/javascript" src="//www.craigslist.org/js/favorites.js?v=c2dbff2669a8f8bcc8654905d51e3c11"></script>
+    <script type="text/javascript" src="//www.craigslist.org/js/search-suggestions.js?v=0a8fbde1d8aaeb2f28317aadcc11f14d"></script>
+    <script type="text/javascript" src="//www.craigslist.org/js/postings.js?v=66d02b80fffa998bc638ddd60a9a26be"></script>
+    
+</body>
+</html>
